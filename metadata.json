@@ -1,0 +1,7 @@
+{
+  "name": "WhatsApp Bulk Campaign Manager",
+  "description": "A high-fidelity dashboard for managing WhatsApp marketing campaigns. Features include Excel file parsing, AI-powered message enhancement via Gemini, real-time campaign tracking, and a simulated QR authentication interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
